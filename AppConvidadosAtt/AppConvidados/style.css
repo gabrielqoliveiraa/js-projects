@@ -1,0 +1,14 @@
+body {
+    font: normal 15pt Arial;
+    background-color: rgba(51, 255, 0, 0.253);
+}
+
+div {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.555);
+    text-align: left;
+}

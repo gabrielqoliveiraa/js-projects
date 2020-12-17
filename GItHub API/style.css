@@ -1,0 +1,18 @@
+body {
+    font: normal 15pt Arial;
+}
+
+div#app {
+    background: rgba(0, 0, 255, 0.473);
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    box-shadow: 10px 15px 30px rgba(5, 5, 5, 0.692);
+    border-radius: 20px;
+
+}
+
+footer{
+    text-align: center;
+    padding-top: 50px;
+}
